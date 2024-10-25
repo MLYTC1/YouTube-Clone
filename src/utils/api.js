@@ -9,10 +9,11 @@ if (!apiKey) {
 
 const options = {
     params: { hl: "en", gl: "US" },
-    headers: {
-        "X-RapidAPI-Key": apiKey,
-        "X-RapidAPI-Host": "youtube138.p.rapidapi.com",
-    },
+  headers: {
+    'x-rapidapi-key': '21384ae483msh01e2c4a39568d3bp1ea7cajsn86f6609c4249',
+    'x-rapidapi-host': 'youtube138.p.rapidapi.com'
+  },
+
 };
 
 export const fetchDataFromApi = async (url) => {
