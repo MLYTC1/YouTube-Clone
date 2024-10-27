@@ -10,7 +10,7 @@ if (!apiKey) {
 const options = {
     params: { hl: "en", gl: "US" },
   headers: {
-    'x-rapidapi-key': '21384ae483msh01e2c4a39568d3bp1ea7cajsn86f6609c4249',
+    'x-rapidapi-key': '97618e5d62mshdf76136925c5d88p136f92jsne7ed969df80b',
     'x-rapidapi-host': 'youtube138.p.rapidapi.com'
   },
 
